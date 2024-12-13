@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.basics.sandbox_springboot: DEBUG
